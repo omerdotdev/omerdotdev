@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omerdotdev
-- 👀 I’m interested in Apps, AI, Art, Geography, History and Apocolypse.
+- 👀 I’m interested in Apps, AI, Art, Space, Geography, History and Apocolypse.
 - 🌱 I’m currently learning Flutter and Failures.
 - 💞️ I’m looking to collaborate on Apps, Intelligence and Life.
 - 📫 How to reach me @omerdotdevdoesnotexist
