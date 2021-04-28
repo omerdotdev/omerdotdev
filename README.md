@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter and Failures.
 - 💞️ I’m looking to collaborate on Apps, Intelligence and Life.
 - 📫 How to reach me @omerdotdevdoesnotexist
-- 💻 Apps: [SpaceLens](https://play.google.com/store/apps/details?id=com.omerasif.spacelens), [Kozmos - Early Access](https://play.google.com/store/apps/details?id=com.omerasif.kozmosapp)
+- 💻 Apps: [SpaceLens](https://play.google.com/store/apps/details?id=com.omerasif.spacelens), [Kozmos](https://play.google.com/store/apps/details?id=com.omerasif.kozmosapp)
 - 🤖 My little bots for telegram: [SpaceLensBot](https://t.me/spacelensbot), [BingWallsBot](https://t.me/bingwallsbot)
 
 <!---
