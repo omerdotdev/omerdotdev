@@ -1,7 +1,7 @@
-- 👋 Hi, I’m omer
-- 👀 I’m interested in Apps, AI, Art, Space, Geography, History and Apocolypse.
-- 🌱 I’m currently learning Flutter and Failures.
-- 💞️ I’m looking to collaborate on Apps, Intelligence and Life.
+- 👋 Hi, I’m omer,
+- 👀 interested in Apps, AI, Art, Space, Geography, History and Apocolypse.
+- 🌱 currently learning Flutter and Failures.
+- 💞️ looking to collaborate on Apps, Intelligence and Life.
 - 💻 Apps: [SpaceLens](https://play.google.com/store/apps/details?id=com.omerasif.spacelens), [Kozmos](https://play.google.com/store/apps/details?id=com.omerasif.kozmosapp)
 - 🤖 My little bots for telegram: [SpaceLensBot](https://t.me/spacelensbot), [BingWallsBot](https://t.me/bingwallsbot)
 
