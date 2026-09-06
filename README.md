@@ -1,8 +1,8 @@
-- 👋 Hi, I’m omer.
+- 👋 Hi, I'm omer.
 - 👀 involved in [mobile apps, ai, devops]
-- 🌱 learning [flutter, mlops, weather_intelligence, rust]
+- 🌱 learning [flutter, mlops, <span style="color: #FFBF00;"><b>weather_intelligence</b></span>, <span style="color: #FFBF00;"><b>rust</b></span>]
 - 💞️ looking to collaborate on [apps, intelligence and life]
-- 💻 Apps: [SpaceLens](https://play.google.com/store/apps/details?id=com.omerasif.spacelens), [Kozmos](https://play.google.com/store/apps/details?id=com.omerasif.kozmosapp), [Sawm](https://play.google.com/store/apps/details?id=com.omerasif.sawm), [QR Lens - Community](https://github.com/omerdotdev/qrlens-community)
+- 💻 Apps: [SpaceLens](https://play.google.com/store/apps/details?id=com.omerasif.spacelens), [Kozmos](https://play.google.com/store/apps/details?id=com.omerasif.kozmosapp), [Sawm](https://play.google.com/store/apps/details?id=com.omerasif.sawm)
 - 🤖 little bots for telegram: [SpaceLensBot](https://t.me/spacelensbot), [BingWallsBot](https://t.me/bingwallsbot)
 - :snake: [omerasif-itu](https://github.com/omerasif-itu) (python and research)
 <!---
