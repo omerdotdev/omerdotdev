@@ -1,7 +1,7 @@
-- 👋 Hi, I’m omer,
-- 👀 involved in Mobile Apps, AI and Devops.
-- 🌱 learning Flutter and MLOps.
-- 💞️ looking to collaborate on Apps, Intelligence and Life.
+- 👋 Hi, I’m omer.
+- 👀 involved in [mobile apps, ai, devops]
+- 🌱 learning [flutter, mlops, weather_intelligence, rust]
+- 💞️ looking to collaborate on [apps, intelligence and life]
 - 💻 Apps: [SpaceLens](https://play.google.com/store/apps/details?id=com.omerasif.spacelens), [Kozmos](https://play.google.com/store/apps/details?id=com.omerasif.kozmosapp), [Sawm](https://play.google.com/store/apps/details?id=com.omerasif.sawm), [QR Lens - Community](https://github.com/omerdotdev/qrlens-community)
 - 🤖 little bots for telegram: [SpaceLensBot](https://t.me/spacelensbot), [BingWallsBot](https://t.me/bingwallsbot)
 - :snake: [omerasif-itu](https://github.com/omerasif-itu) (python and research)
