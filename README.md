@@ -2,7 +2,7 @@
 - 👀 involved in [mobile apps, ai, devops]
 - 🌱 learning [flutter, mlops, **weather_intelligence**, **rust**]
 - 💞️ looking to collaborate on [apps, intelligence and life]
-- 💻 Apps: [Sentinels](https://sentinels.aunai.org), [Ai Revolution](https://airevolution.aunai.org), [Solar Yield](https://solaryield.aunai.org), [SpaceLens](https://play.google.com/store/apps/details?id=com.omerasif.spacelens)
+- 💻 Apps: [Sentinels](https://sentinels.aunai.org), [Ai Revolution](https://airevolution.aunai.org), [Solar Yield](https://solaryield.aunai.org)
 - 🤖 little bots for telegram: [SpaceLensBot](https://t.me/spacelensbot), [BingWallsBot](https://t.me/bingwallsbot)
 - :snake: [omerasif-itu](https://github.com/omerasif-itu) (python and research)
 
